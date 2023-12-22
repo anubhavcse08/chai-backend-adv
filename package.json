@@ -1,0 +1,20 @@
+{
+  "name": "chai-backend-adv",
+  "version": "1.0.0",
+  "description": "Advance level backend understanding with express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "and",
+    "mongoose",
+    "models"
+  ],
+  "author": "Anubhav Kumar",
+  "license": "ISC"
+}
